@@ -10,6 +10,7 @@ def main():
     print """
     Hello World, from...
     Joel E. Welling
+    Peter C. Pearson
     """
 
 
