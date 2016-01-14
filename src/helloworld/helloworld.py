@@ -10,6 +10,8 @@ def main():
     print """
     Hello World, from...
     Joel D. Welling
+    Adam Williams
+    Art Wetzel
     William R. Howard Matchen
     Peter C. Pearson
     Xuekai Du
