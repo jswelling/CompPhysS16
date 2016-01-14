@@ -16,7 +16,7 @@ def main():
     Art Wetzel
     William R. Howard Matchen has successfully forked.
     Peter C. Pearson
-    Xuekai Du
+    Xuekai Du pull
     E Badu
     """
 
