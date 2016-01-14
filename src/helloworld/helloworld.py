@@ -14,7 +14,7 @@ def main():
     Joel D. Welling
     Adam Williams
     Art Wetzel
-    William R. Howard Matchen
+    William R. Howard Matchen has successfully forked.
     Peter C. Pearson
     Xuekai Du
     E Badu
